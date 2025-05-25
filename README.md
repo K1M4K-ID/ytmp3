@@ -20,3 +20,5 @@ Cara Download Banyak Music
 3. bash ytmp3 -f <list.txt>
 ```
 
+## image
+![Image](https://github.com/user-attachments/assets/39e68ce3-c476-435f-97ba-8810b3a7c55f)
